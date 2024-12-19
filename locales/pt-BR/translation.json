@@ -1,63 +1,63 @@
 {
     "gen": {
-        "permission": "You don't have permission to run this command."
+        "permission": "Não tem permissão para usar este comando."
       },
     "vote": {
-      "title": "Upvote Circuit",
-      "description": "Vote here",
+      "title": "Votar em Circuit",
+      "description": "Votar aqui",
       "url": "https://top.gg/bot/1291323683771514900/vote"
     },
     "invite": {
-        "title": "Invite",
-        "description": "Click here",
+        "title": "Convidar",
+        "description": "Clique aqui",
         "url": "https://discord.com/oauth2/authorize?client_id=1291323683771514900&permissions=8&integration_type=0&scope=bot+applications.commands"
       },
     "support": {
-        "title": "Support",
-        "description": "Support server",
+        "title": "Suporte",
+        "description": "Servidor de assistência",
         "url": "https://discord.gg/TnG4dc4Kr9"
       },
       "say": {
-        "permission": "You don't have permission to run this command.",
-        "content": "Message has been sent!"
+        "permission": "Não tem permissão para usar este comando.",
+        "content": "A mensagem foi enviada!"
       },
       "manager": {
-        "success": "The management role has been set to",
-        "error": "There was an error while setting the management role. Please try again later."
+        "success": "O papel de gerenciamento foi associado a",
+        "error": "Houve um erro a configurar o papel de gerenciamento. Tente outra vez!"
       },
       "admin": {
-        "success": "The admin role has been set to",
-        "error": "There was an error while setting the admin role. Please try again later."
+        "success": "O papel de adminstrador foi associado a",
+        "error": "Houve um erro a configurar o papel de adminstrador. Tente outra vez!"
       },
       "debug": {
         "title": "Bot debug information",
-        "description": "Here is some diagnostic information about the bot and server",
-        "footer": "Bot debug info",
-        "uptime": "Bot uptime",
+        "description": "Aqui está um diagnóstico de informação sobre o bot e o servidor",
+        "footer": "Informação debug do bot",
+        "uptime": "Tempo online to bot",
         "ping": "Bot Ping",
         "memused": "Memory usage",
-        "memfree": "Free memory",
+        "memfree": "Memória livre",
         "cpuload": "CPU load",
         "guildname": "Guild name",
         "guildowner": "Guild owner",
-        "totmem": "Total members",
-        "totchan": "Total channels",
-        "version": "Bot version",
-        "error": "There was an error fetching debug information. Please try again later."
+        "totmem": "Membros totais",
+        "totchan": "Canais totais",
+        "version": "Versão do bot",
+        "error": "Ocorreu um erro ao buscar informações de depuração. Por favor, tente novamente mais tarde."
       },
       "about": {
-        "description": "Circuit is a multi-functional bot designed to streamline and elevate server management, ensuring seamless moderation, enhanced user engagement, and tailored tools for diverse server needs.",
-        "field1": "Bot statistics",
-        "field2": "System information",
-        "field3": "Extra information",
-        "servers": "Servers",
-        "users": "Users",
-        "version": "Version",
-        "language": "Language",
-        "database": "Database",
-        "host": "Host",
-        "uptime": "Uptime",
-        "latency": "Latency",
-        "prefix": "Prefix"
+        "description": "Circuit é um bot multi-funcional designado para elevar a adminstração do seu servido, fácil moderação e para facilitar a necessidade do seu servidor.",
+        "field1": "Estatíticas do bot",
+        "field2": "Informaçao do sistema",
+        "field3": "Informação extra",
+        "servers": "Servidores",
+        "users": "Usuários",
+        "version": "Versão",
+        "language": "Languagem",
+        "database": "Base de data",
+        "host": "Anfitrião",
+        "uptime": "Tempo online",
+        "latency": "Tempo de espera",
+        "prefix": "Prefixo"
       }
   }
