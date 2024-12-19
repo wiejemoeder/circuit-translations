@@ -1,0 +1,63 @@
+{
+    "gen": {
+        "permission": "Je hebt niet de benodigde toestemmingen om dit command uittevoeren"
+      },
+    "vote": {
+      "title": "Stem op Circuit",
+      "description": "Stem hier",
+      "url": "https://top.gg/bot/1291323683771514900/vote"
+    },
+    "invite": {
+        "title": "Uitnodiging",
+        "description": "Klick hier",
+        "url": "https://discord.com/oauth2/authorize?client_id=1291323683771514900&permissions=8&integration_type=0&scope=bot+applications.commands"
+      },
+    "support": {
+        "title": "Support",
+        "description": "Support server",
+        "url": "https://discord.gg/TnG4dc4Kr9"
+      },
+      "say": {
+        "permission": "Je hebt niet de benodigde toestemmingen om dit command uittevoeren.",
+        "content": "Je bericht is verzonden!"
+      },
+      "manager": {
+        "success": "De managerrol is succesvol ingesteld als",
+        "error": "Er is een fout opgetreden bij het instellen van de managerrol. Probeer het later opnieuw."
+      },
+      "admin": {
+        "success": "De beheerdersrol is succesvol ingesteld als",
+        "error": "Er is een fout opgetreden bij het instellen van de beheerdersrol. Probeer het later opnieuw."
+      },
+      "debug": {
+        "title": "Bot debug informatie",
+        "description": "Hier is wat diagnostische informatie over de bot en server",
+        "footer": "Bot debug info",
+        "uptime": "Bot uptime",
+        "ping": "Bot Ping",
+        "memused": "Geheugengebruik",
+        "memfree": "Vrij geheugen",
+        "cpuload": "CPU lading",
+        "guildname": "Server naam",
+        "guildowner": "Server eigenaar",
+        "totmem": "Totaal gebruikers",
+        "totchan": "Totaal kanalen",
+        "version": "Bot versie",
+        "error": "There was an error fetching debug information. Please try again later."
+      },
+      "about": {
+        "description": "Circuit is een multifunctionele bot die is ontworpen om serverbeheer te stroomlijnen en te verbeteren, en zorgt voor naadloze moderatie, verbeterde gebruikersbetrokkenheid en op maat gemaakte tools voor uiteenlopende serverbehoeften.",
+        "field1": "Bot statistieken",
+        "field2": "Systeem informatie",
+        "field3": "Extra informatie",
+        "servers": "Servers",
+        "users": "Gebruikers",
+        "version": "Versie",
+        "language": "Taal",
+        "database": "Databank",
+        "host": "Host",
+        "uptime": "Uptime",
+        "latency": "Latency",
+        "prefix": "Prefix"
+      }
+  }
