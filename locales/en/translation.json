@@ -1,0 +1,63 @@
+{
+    "gen": {
+        "permission": "You don't have permission to run this command."
+      },
+    "vote": {
+      "title": "Upvote Circuit",
+      "description": "Vote here",
+      "url": "https://top.gg/bot/1291323683771514900/vote"
+    },
+    "invite": {
+        "title": "Invite",
+        "description": "Click here",
+        "url": "https://discord.com/oauth2/authorize?client_id=1291323683771514900&permissions=8&integration_type=0&scope=bot+applications.commands"
+      },
+    "support": {
+        "title": "Support",
+        "description": "Support server",
+        "url": "https://discord.gg/TnG4dc4Kr9"
+      },
+      "say": {
+        "permission": "You don't have permission to run this command.",
+        "content": "Message has been sent!"
+      },
+      "manager": {
+        "success": "The management role has been set to",
+        "error": "There was an error while setting the management role. Please try again later."
+      },
+      "admin": {
+        "success": "The admin role has been set to",
+        "error": "There was an error while setting the admin role. Please try again later."
+      },
+      "debug": {
+        "title": "Bot debug information",
+        "description": "Here is some diagnostic information about the bot and server",
+        "footer": "Bot debug info",
+        "uptime": "Bot uptime",
+        "ping": "Bot Ping",
+        "memused": "Memory usage",
+        "memfree": "Free memory",
+        "cpuload": "CPU load",
+        "guildname": "Guild name",
+        "guildowner": "Guild owner",
+        "totmem": "Total members",
+        "totchan": "Total channels",
+        "version": "Bot version",
+        "error": "There was an error fetching debug information. Please try again later."
+      },
+      "about": {
+        "description": "Circuit is a multi-functional bot designed to streamline and elevate server management, ensuring seamless moderation, enhanced user engagement, and tailored tools for diverse server needs.",
+        "field1": "Bot statistics",
+        "field2": "System information",
+        "field3": "Extra information",
+        "servers": "Servers",
+        "users": "Users",
+        "version": "Version",
+        "language": "Language",
+        "database": "Database",
+        "host": "Host",
+        "uptime": "Uptime",
+        "latency": "Latency",
+        "prefix": "Prefix"
+      }
+  }
