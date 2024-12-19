@@ -1,15 +1,15 @@
 {
     "gen": {
-        "permission": "Je hebt niet de benodigde toestemmingen om dit command uittevoeren"
+        "permission": "You don't have permission to run this command."
       },
     "vote": {
-      "title": "Stem op Circuit",
-      "description": "Stem hier",
+      "title": "Upvote Circuit",
+      "description": "Vote here",
       "url": "https://top.gg/bot/1291323683771514900/vote"
     },
     "invite": {
-        "title": "Uitnodiging",
-        "description": "Klick hier",
+        "title": "Invite",
+        "description": "Click here",
         "url": "https://discord.com/oauth2/authorize?client_id=1291323683771514900&permissions=8&integration_type=0&scope=bot+applications.commands"
       },
     "support": {
@@ -18,43 +18,43 @@
         "url": "https://discord.gg/TnG4dc4Kr9"
       },
       "say": {
-        "permission": "Je hebt niet de benodigde toestemmingen om dit command uittevoeren.",
-        "content": "Je bericht is verzonden!"
+        "permission": "You don't have permission to run this command.",
+        "content": "Message has been sent!"
       },
       "manager": {
-        "success": "De managerrol is succesvol ingesteld als",
-        "error": "Er is een fout opgetreden bij het instellen van de managerrol. Probeer het later opnieuw."
+        "success": "The management role has been set to",
+        "error": "There was an error while setting the management role. Please try again later."
       },
       "admin": {
-        "success": "De beheerdersrol is succesvol ingesteld als",
-        "error": "Er is een fout opgetreden bij het instellen van de beheerdersrol. Probeer het later opnieuw."
+        "success": "The admin role has been set to",
+        "error": "There was an error while setting the admin role. Please try again later."
       },
       "debug": {
-        "title": "Bot debug informatie",
-        "description": "Hier is wat diagnostische informatie over de bot en server",
+        "title": "Bot debug information",
+        "description": "Here is some diagnostic information about the bot and server",
         "footer": "Bot debug info",
         "uptime": "Bot uptime",
         "ping": "Bot Ping",
-        "memused": "Geheugengebruik",
-        "memfree": "Vrij geheugen",
-        "cpuload": "CPU lading",
-        "guildname": "Server naam",
-        "guildowner": "Server eigenaar",
-        "totmem": "Totaal gebruikers",
-        "totchan": "Totaal kanalen",
-        "version": "Bot versie",
+        "memused": "Memory usage",
+        "memfree": "Free memory",
+        "cpuload": "CPU load",
+        "guildname": "Guild name",
+        "guildowner": "Guild owner",
+        "totmem": "Total members",
+        "totchan": "Total channels",
+        "version": "Bot version",
         "error": "There was an error fetching debug information. Please try again later."
       },
       "about": {
-        "description": "Circuit is een multifunctionele bot die is ontworpen om serverbeheer te stroomlijnen en te verbeteren, en zorgt voor naadloze moderatie, verbeterde gebruikersbetrokkenheid en op maat gemaakte tools voor uiteenlopende serverbehoeften.",
-        "field1": "Bot statistieken",
-        "field2": "Systeem informatie",
-        "field3": "Extra informatie",
+        "description": "Circuit is a multi-functional bot designed to streamline and elevate server management, ensuring seamless moderation, enhanced user engagement, and tailored tools for diverse server needs.",
+        "field1": "Bot statistics",
+        "field2": "System information",
+        "field3": "Extra information",
         "servers": "Servers",
-        "users": "Gebruikers",
-        "version": "Versie",
-        "language": "Taal",
-        "database": "Databank",
+        "users": "Users",
+        "version": "Version",
+        "language": "Language",
+        "database": "Database",
         "host": "Host",
         "uptime": "Uptime",
         "latency": "Latency",
