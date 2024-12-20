@@ -29,6 +29,10 @@
         "success": "De beheerdersrol is succesvol ingesteld als",
         "error": "Er is een fout opgetreden bij het instellen van de beheerdersrol. Probeer het later opnieuw."
       },
+      "staff": {
+        "success": "De personeelsrol is succesvol ingesteld als {{role.name}}",
+        "error": "Er is een fout opgetreden bij het instellen van de personeelsrol. Probeer het later opnieuw."
+      },
       "debug": {
         "title": "Bot debug informatie",
         "description": "Hier is wat diagnostische informatie over de bot en server",
