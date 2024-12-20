@@ -30,7 +30,7 @@
         "error": "There was an error while setting the admin role. Please try again later."
       },
       "staff": {
-        "success": "The staff role has been set to {{role.name}}",
+        "success": "The staff role has been set to",
         "error": "There was an error while setting the admin role. Please try again later."
       },
       "debug": {
