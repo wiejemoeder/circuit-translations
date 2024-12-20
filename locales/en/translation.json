@@ -29,6 +29,10 @@
         "success": "The admin role has been set to",
         "error": "There was an error while setting the admin role. Please try again later."
       },
+      "staff": {
+        "success": "The staff role has been set to {{role.name}}",
+        "error": "There was an error while setting the admin role. Please try again later."
+      },
       "debug": {
         "title": "Bot debug information",
         "description": "Here is some diagnostic information about the bot and server",
