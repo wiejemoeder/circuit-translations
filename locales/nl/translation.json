@@ -30,7 +30,7 @@
         "error": "Er is een fout opgetreden bij het instellen van de beheerdersrol. Probeer het later opnieuw."
       },
       "staff": {
-        "success": "De personeelsrol is succesvol ingesteld als {{role.name}}",
+        "success": "De personeelsrol is succesvol ingesteld als",
         "error": "Er is een fout opgetreden bij het instellen van de personeelsrol. Probeer het later opnieuw."
       },
       "debug": {
